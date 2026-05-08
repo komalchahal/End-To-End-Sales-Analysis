@@ -39,3 +39,12 @@ Project Overview
 ​Recommendations
 ​Focus on Retention: Implement email marketing and discounts for one-time buyers to increase the retention rate.
 ​Optimize Logistics: Since most orders come from Sao Paulo, optimizing the supply chain in that region can reduce delivery times.
+
+Sample Visualization 
+<img width="867" height="572" alt="Screenshot 2026-05-08 203903" src="https://github.com/user-attachments/assets/933494ad-0a2d-4a8d-8d75-76c9b3b10bfc" />
+
+<img width="1000" height="776" alt="Screenshot 2026-05-08 204010" src="https://github.com/user-attachments/assets/1f26d677-f6fb-417f-a122-839c2764e900" />
+
+<img width="1036" height="684" alt="Screenshot 2026-05-08 203952" src="https://github.com/user-attachments/assets/4551334f-824f-47a1-b297-a7b18677addb" />
+
+
