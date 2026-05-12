@@ -24,19 +24,23 @@ Project Overview
 ​Python (Google Colab): Data cleaning, advanced statistics (Moving Average, Retention), and visualization.
 ​Libraries: Pandas, Matplotlib, Seaborn.
 
-​🔍 Analysis Highlights
+​Analysis Highlights
 
 ​1. SQL Analysis
+
 ​Extracting total revenue per city.
 ​Calculating the number of orders per year.
 ​Ranking sellers based on their sales volume.
 
 ​2. Python Visualizations
+
 ​Moving Average: Understanding customer spending habits over time.
+
 ​Cumulative Growth: Monthly "Running Total" of revenue per year.
 ​Retention Pie Chart: Visualizing the split between repeat and one-time customers.
 
 ​Recommendations
+
 ​Focus on Retention: Implement email marketing and discounts for one-time buyers to increase the retention rate.
 ​Optimize Logistics: Since most orders come from Sao Paulo, optimizing the supply chain in that region can reduce delivery times.
 
