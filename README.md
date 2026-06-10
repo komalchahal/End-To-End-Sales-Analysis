@@ -19,7 +19,7 @@ Based on the multi-dimensional analysis of the E-commerce dataset using SQL and 
 
 * Geographic Concentration: São Paulo and Rio de Janeiro emerge as the primary revenue drivers. São Paulo alone accounts for the highest density of customers (over 15%), indicating a highly centralized market presence.
   
-* Low Customer Retention (2.32%): The 6-Month Retention Rate stands at a critical 2.32%. Only a minute fraction of customers return to make a second purchase within half a year of their first order, highlighting a massive leak in the customer acquisition funnel.
+* Low Customer Retention (2.32%): Our analysis shows a 0% retention rate, indicating that first-time buyers are not returning to make a second purchase within 6 months. We need to implement targeted email marketing and loyalty programs to incentivize repeat shopping and improve customer loyalty.
   
 * High Dependency on Installments (51.5%): More than half of all successful orders (51.5%) are paid via installments. This strongly indicates that flexible financing/credit availability is a primary catalyst for conversions on the platform.
 
@@ -48,13 +48,12 @@ Since 51.5% of users rely on installments, any friction in credit approval will 
 
 
 ## Sample Visualization 
-<img width="976" height="547" alt="image" src="https://github.com/user-attachments/assets/5c7596a9-3e54-46b4-9928-aa14c439e647" />
+<img width="1078" height="760" alt="image" src="https://github.com/user-attachments/assets/f0fecbe2-42b9-4f01-818a-4cd3c6b9a078" />
+<img width="1066" height="673" alt="image" src="https://github.com/user-attachments/assets/3bf4eaa0-17a1-4fee-b891-28197ff0bf3e" />
 
-<img width="882" height="590" alt="image" src="https://github.com/user-attachments/assets/81ff146d-a86b-4e82-a0b8-4a2552886edd" />
+<img width="1127" height="677" alt="image" src="https://github.com/user-attachments/assets/a1e2a1b1-aaaf-4ffa-a497-ad6e864f3157" />
 
-<img width="833" height="547" alt="image" src="https://github.com/user-attachments/assets/ce5998c7-03d2-439d-83fe-5bdf057df417" />
 
-<img width="759" height="659" alt="image" src="https://github.com/user-attachments/assets/fd003d1e-2c4c-492c-8f05-38b68cbc43d6" />
 
 
 
